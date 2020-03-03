@@ -13,7 +13,7 @@ var CalcButton = document.getElementById('calc');
 
 
 CalcButton.addEventListener('click',DoCalculation)
-console.log(salaryPerHour, hoursPerMonth, basicSalaryPerMonth, grossSalary)
+console.log(salaryPerHour, hoursPerMonth, basicSalaryPerMonth, Salary)
 
 function DoCalculation(){
 
